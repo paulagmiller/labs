@@ -22,7 +22,7 @@
       "original_namespace" : "org.openehr",
       "original_publisher" : "openEHR Foundation",
       "custodian_namespace" : "org.openehr",
-      "MD5-CAM-1.0.1" : "e186c6e6466bff47584236a9c4ecd4ca",
+      "MD5-CAM-1.0.1" : "3d7d1cc25d8bcb661ea65a8d589661c8",
       "PARENT:MD5-CAM-1.0.1" : "1DA7D8EDC23CF1B673C05E6E8FE28EB1",
       "build_uid" : "32e2ec71-ab01-4e23-af08-785bbf6c5149"
     },
@@ -1772,7 +1772,7 @@
               "defaultValue" : {
                 "defining_code" : {
                   "terminology_id" : {
-                    "value" : "SNOMED CT",
+                    "value" : "SNOMED-CT",
                     "@type" : "TERMINOLOGY_ID"
                   },
                   "code_string" : "2715841000000117",
